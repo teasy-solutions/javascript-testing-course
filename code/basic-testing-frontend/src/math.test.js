@@ -4,7 +4,7 @@ import { add } from './math'
 it('test soma numeros do metodo add', () => {
   // Triple AAA
   // Arrange
-  const numbers = [10 ,2, 2, 3]
+  const numbers = [10 ,2, 2, 8]
 
   // Act
   const result = add(numbers)
