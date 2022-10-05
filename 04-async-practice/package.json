@@ -1,0 +1,23 @@
+{
+  "name": "teasy-solutions-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --run --reporter verbose",
+    "coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.23.4",
+    "vitest": "^0.23.2"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
