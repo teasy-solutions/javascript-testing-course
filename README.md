@@ -15,6 +15,7 @@ Você pode alternar entre as branches no menu suspenso no canto superior esquerd
 Na maioria das branches (ou seja, na maioria dos conteúdos do curso), você encontra as seguintes pastas na branch do repositório:
 
 - **`/code`**: Contém várias subpastas com diferentes instantâneos de código para esta seção do curso
+- **`/extra-files`**: Contém arquivos auxiliares usados durante o curso
 - **`/slides`**: Contém slides de seção (se os slides foram mostrados/usados na aula)
 
 # Executando o código fornecido
